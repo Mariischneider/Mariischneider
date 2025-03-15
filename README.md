@@ -8,6 +8,9 @@
 ---
 
 ### 🚀 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="50" />
+</p>
 - 🔭 I’m currently working on **my web portfolio**.
 - 🌱 I’m currently learning **Oracle, Figma, and C++**.
 - 📫 How to reach me: **marischneider0908@gmail.com**.
@@ -15,43 +18,55 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/mariane-schneider" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariane-schneider" height="30" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40" />
   </a>
   <a href="https://instagram.com/_marii.jpeg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_marii.jpeg" height="30" width="40" />
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" width="40" height="40" />
+  </a>
+  <a href="mailto:marischneider0908@gmail.com" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" width="40" height="40" />
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40" />
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="oracle" width="40" height="40" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40" />
   </a>
+</p>
+
+---
+
+### ✨ Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" alt="fun fact" width="100" />
+  <br>
+  Did you know? I love combining creativity with technology to build magical projects! ✨
 </p>
 
 <div align="center">
