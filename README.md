@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq3Hi/giphy.gif" alt="magic spell" width="200" />
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" alt="magic spell" width="200" />
 </p>
 <p align="center">
   - 🔭 I’m currently working on <strong>my web portfolio</strong>.<br>
