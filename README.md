@@ -9,11 +9,13 @@
 
 ### 🚀 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding" width="50" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="200" />
 </p>
-- 🔭 I’m currently working on **my web portfolio**.
-- 🌱 I’m currently learning **Oracle, Figma, and C++**.
-- 📫 How to reach me: **marischneider0908@gmail.com**.
+<p align="center">
+  - 🔭 I’m currently working on <strong>my web portfolio</strong>.<br>
+  - 🌱 I’m currently learning <strong>Oracle, Figma, and C++</strong>.<br>
+  - 📫 How to reach me: <strong>marischneider0908@gmail.com</strong>.
+</p>
 
 ---
 
