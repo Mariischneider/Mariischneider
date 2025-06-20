@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Mari.
 
-<!--
-**Mariischneider/Mariischneider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+- 🎓 Estudante de Ciência da Computação
+- 🐍 Apaixonado por Python
+- 🗄️ Conhecimento em Banco de Dados (SQL e NoSQL)
+- 🎨 Entusiasta de Design de Interfaces com Figma
+- 📚 Sempre aprendendo e evoluindo
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias que estudo e uso
+- Python
+- SQL / Banco de Dados
+- Figma
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+- GitHub: [https://github.com/Mariischneider](https://github.com/Mariischneider)
+- LinkedIn: [https://www.linkedin.com/in/mariane-schneider-7766052b7](https://www.linkedin.com/in/mariane-schneider-7766052b7)
